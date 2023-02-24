@@ -1,0 +1,20 @@
+#navbar img{
+    margin-top: 10px;
+}
+
+#navbar ul{
+    flex-wrap: wrap;
+}
+
+/* imgs */
+#study-img{
+    height: 180px;
+    width: 280px;
+}
+
+/* teacher section  */
+#teacher-info div p{
+    
+    padding: 0 10px;
+    
+}

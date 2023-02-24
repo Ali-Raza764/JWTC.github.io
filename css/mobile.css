@@ -1,0 +1,44 @@
+#navbar{
+    flex-direction: column;
+}
+
+#navbar div{
+    justify-content: center;
+    align-items: center;
+}
+
+#navbar ul{
+    padding-left: 0%;
+}
+
+#navbar li {
+    margin-bottom: 5px;
+}
+/* imgs*/
+#study-img{
+    /* padding: 10px;
+    border-radius: 30px;
+    height: fit-content;
+    */
+    width: 250px ;
+    height: 150px;
+} 
+
+/* teacher section  */
+#teacher-info div p{
+    /* padding: 0%; */
+    padding: 0 10px;
+    
+}
+
+
+/* footer  */
+#footer div ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-left: 8%;
+    
+}
